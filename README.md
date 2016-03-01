@@ -1,4 +1,4 @@
-Storybord Lab Instructions
+Storyboard Lab Instructions
 =================
 Let's make a simple app interface using Storyboards.
 
