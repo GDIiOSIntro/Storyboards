@@ -2,6 +2,8 @@ Storybord Lab Instructions
 =================
 Let's make a simple app interface using Storyboards.
 
+Steps:
+------
 1. Make a new Xcode project.
 
 2. Drag two UIViewController's onto Main.storyboard from the UI element panel on the bottom right of Interface Builder.
