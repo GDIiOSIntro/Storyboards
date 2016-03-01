@@ -24,3 +24,5 @@ dismissViewControllerAnimated(true, completion: nil)
 You should now be able to tap a button, see another screen pop up from below, and then dismiss the second screen by tapping the button on the second screen. This uses a segue, an IBAction, and Storyboard.
 
 If you finish everything, go ahead and make your interface look nicer, and explore the right panel on Xcode, and all the UI elements you can drag on screen in there. 
+
+Minor note: Normally we don't want the Xcode project in the repository as a .zip file but I was having authentication issues on Github, so I dragged it in as a zip file here. 
