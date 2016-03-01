@@ -1,6 +1,6 @@
 Storybord Lab Instructions
 =================
-This project comes with two files of the class UIViewController. They are called MatchSelectionViewController and DetailedProfileViewController.
+Let's make a simple app interface using Storyboards.
 
 1. Make a new Xcode project.
 
